@@ -1,1 +1,1 @@
-# richtext_notepad
+# notepad
